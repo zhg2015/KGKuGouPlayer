@@ -14,6 +14,27 @@
 		C76CE8A81BA7B1B900317A1B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8A71BA7B1B900317A1B /* Images.xcassets */; };
 		C76CE8AB1BA7B1B900317A1B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8A91BA7B1B900317A1B /* LaunchScreen.xib */; };
 		C76CE8B71BA7B1B900317A1B /* KGKuGouPlayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C76CE8B61BA7B1B900317A1B /* KGKuGouPlayerTests.m */; };
+		C76CE8C51BA7C52400317A1B /* LocolMusicList.plist in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8C41BA7C52400317A1B /* LocolMusicList.plist */; };
+		C76CE8DA1BA7C53B00317A1B /* TFBOYS - Heart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8C71BA7C53B00317A1B /* TFBOYS - Heart.mp3 */; };
+		C76CE8DB1BA7C53B00317A1B /* TFBOYS - 信仰之名.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8C81BA7C53B00317A1B /* TFBOYS - 信仰之名.mp3 */; };
+		C76CE8DC1BA7C53B00317A1B /* TFBOYS - 幸运符号.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8C91BA7C53B00317A1B /* TFBOYS - 幸运符号.mp3 */; };
+		C76CE8DD1BA7C53B00317A1B /* TFBOYS - 爱出发.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8CA1BA7C53B00317A1B /* TFBOYS - 爱出发.mp3 */; };
+		C76CE8DE1BA7C53B00317A1B /* TFBOYS - 青春修炼手册.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8CB1BA7C53B00317A1B /* TFBOYS - 青春修炼手册.mp3 */; };
+		C76CE8DF1BA7C53B00317A1B /* TFBOYS - 魔法城堡.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8CC1BA7C53B00317A1B /* TFBOYS - 魔法城堡.mp3 */; };
+		C76CE8E01BA7C53B00317A1B /* 张杰 - 剑心.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8CD1BA7C53B00317A1B /* 张杰 - 剑心.mp3 */; };
+		C76CE8E11BA7C53B00317A1B /* 张靓颖 - 我们说好的.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8CE1BA7C53B00317A1B /* 张靓颖 - 我们说好的.mp3 */; };
+		C76CE8E21BA7C53B00317A1B /* 朴树 - 平凡之路.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8CF1BA7C53B00317A1B /* 朴树 - 平凡之路.mp3 */; };
+		C76CE8E31BA7C53B00317A1B /* 李宇春 - 1987我不知会遇见你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8D01BA7C53B00317A1B /* 李宇春 - 1987我不知会遇见你.mp3 */; };
+		C76CE8E41BA7C53B00317A1B /* 李易峰 - 剑伤.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8D11BA7C53B00317A1B /* 李易峰 - 剑伤.mp3 */; };
+		C76CE8E51BA7C53B00317A1B /* 王菲 - 匆匆那年.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8D21BA7C53B00317A1B /* 王菲 - 匆匆那年.mp3 */; };
+		C76CE8E61BA7C53B00317A1B /* 王蓉 - 小鸡小鸡.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8D31BA7C53B00317A1B /* 王蓉 - 小鸡小鸡.mp3 */; };
+		C76CE8E71BA7C53B00317A1B /* 筷子兄弟 - 小苹果.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8D41BA7C53B00317A1B /* 筷子兄弟 - 小苹果.mp3 */; };
+		C76CE8E81BA7C53B00317A1B /* 筷子兄弟 - 父亲.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8D51BA7C53B00317A1B /* 筷子兄弟 - 父亲.mp3 */; };
+		C76CE8E91BA7C53B00317A1B /* 迪克牛仔 - 爱有奇迹.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8D61BA7C53B00317A1B /* 迪克牛仔 - 爱有奇迹.mp3 */; };
+		C76CE8EA1BA7C53B00317A1B /* 邓紫棋 - 泡沫.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8D71BA7C53B00317A1B /* 邓紫棋 - 泡沫.mp3 */; };
+		C76CE8EB1BA7C53B00317A1B /* 陈学冬 - 不再见.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8D81BA7C53B00317A1B /* 陈学冬 - 不再见.mp3 */; };
+		C76CE8EC1BA7C53B00317A1B /* 齐晨 - 咱们结婚吧.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C76CE8D91BA7C53B00317A1B /* 齐晨 - 咱们结婚吧.mp3 */; };
+		C76CE8F01BA7C73400317A1B /* KGWelcomePageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C76CE8EF1BA7C73400317A1B /* KGWelcomePageViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +60,28 @@
 		C76CE8B01BA7B1B900317A1B /* KGKuGouPlayerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KGKuGouPlayerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C76CE8B51BA7B1B900317A1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C76CE8B61BA7B1B900317A1B /* KGKuGouPlayerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KGKuGouPlayerTests.m; sourceTree = "<group>"; };
+		C76CE8C41BA7C52400317A1B /* LocolMusicList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = LocolMusicList.plist; path = "../../项目资源/酷狗音乐 /resource/LocolMusicList.plist"; sourceTree = "<group>"; };
+		C76CE8C71BA7C53B00317A1B /* TFBOYS - Heart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "TFBOYS - Heart.mp3"; sourceTree = "<group>"; };
+		C76CE8C81BA7C53B00317A1B /* TFBOYS - 信仰之名.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "TFBOYS - 信仰之名.mp3"; sourceTree = "<group>"; };
+		C76CE8C91BA7C53B00317A1B /* TFBOYS - 幸运符号.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "TFBOYS - 幸运符号.mp3"; sourceTree = "<group>"; };
+		C76CE8CA1BA7C53B00317A1B /* TFBOYS - 爱出发.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "TFBOYS - 爱出发.mp3"; sourceTree = "<group>"; };
+		C76CE8CB1BA7C53B00317A1B /* TFBOYS - 青春修炼手册.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "TFBOYS - 青春修炼手册.mp3"; sourceTree = "<group>"; };
+		C76CE8CC1BA7C53B00317A1B /* TFBOYS - 魔法城堡.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "TFBOYS - 魔法城堡.mp3"; sourceTree = "<group>"; };
+		C76CE8CD1BA7C53B00317A1B /* 张杰 - 剑心.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "张杰 - 剑心.mp3"; sourceTree = "<group>"; };
+		C76CE8CE1BA7C53B00317A1B /* 张靓颖 - 我们说好的.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "张靓颖 - 我们说好的.mp3"; sourceTree = "<group>"; };
+		C76CE8CF1BA7C53B00317A1B /* 朴树 - 平凡之路.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "朴树 - 平凡之路.mp3"; sourceTree = "<group>"; };
+		C76CE8D01BA7C53B00317A1B /* 李宇春 - 1987我不知会遇见你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "李宇春 - 1987我不知会遇见你.mp3"; sourceTree = "<group>"; };
+		C76CE8D11BA7C53B00317A1B /* 李易峰 - 剑伤.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "李易峰 - 剑伤.mp3"; sourceTree = "<group>"; };
+		C76CE8D21BA7C53B00317A1B /* 王菲 - 匆匆那年.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "王菲 - 匆匆那年.mp3"; sourceTree = "<group>"; };
+		C76CE8D31BA7C53B00317A1B /* 王蓉 - 小鸡小鸡.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "王蓉 - 小鸡小鸡.mp3"; sourceTree = "<group>"; };
+		C76CE8D41BA7C53B00317A1B /* 筷子兄弟 - 小苹果.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "筷子兄弟 - 小苹果.mp3"; sourceTree = "<group>"; };
+		C76CE8D51BA7C53B00317A1B /* 筷子兄弟 - 父亲.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "筷子兄弟 - 父亲.mp3"; sourceTree = "<group>"; };
+		C76CE8D61BA7C53B00317A1B /* 迪克牛仔 - 爱有奇迹.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "迪克牛仔 - 爱有奇迹.mp3"; sourceTree = "<group>"; };
+		C76CE8D71BA7C53B00317A1B /* 邓紫棋 - 泡沫.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "邓紫棋 - 泡沫.mp3"; sourceTree = "<group>"; };
+		C76CE8D81BA7C53B00317A1B /* 陈学冬 - 不再见.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "陈学冬 - 不再见.mp3"; sourceTree = "<group>"; };
+		C76CE8D91BA7C53B00317A1B /* 齐晨 - 咱们结婚吧.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "齐晨 - 咱们结婚吧.mp3"; sourceTree = "<group>"; };
+		C76CE8EE1BA7C73400317A1B /* KGWelcomePageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KGWelcomePageViewController.h; sourceTree = "<group>"; };
+		C76CE8EF1BA7C73400317A1B /* KGWelcomePageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KGWelcomePageViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +139,8 @@
 		C76CE8971BA7B1B900317A1B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C76CE8C61BA7C53B00317A1B /* mp3 */,
+				C76CE8C41BA7C52400317A1B /* LocolMusicList.plist */,
 				C76CE8981BA7B1B900317A1B /* Info.plist */,
 				C76CE8991BA7B1B900317A1B /* main.m */,
 			);
@@ -136,6 +181,7 @@
 		C76CE8C21BA7B3AE00317A1B /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				C76CE8ED1BA7C6BD00317A1B /* 欢迎页 */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -147,6 +193,42 @@
 				C76CE89C1BA7B1B900317A1B /* AppDelegate.m */,
 			);
 			name = Otrers;
+			sourceTree = "<group>";
+		};
+		C76CE8C61BA7C53B00317A1B /* mp3 */ = {
+			isa = PBXGroup;
+			children = (
+				C76CE8C71BA7C53B00317A1B /* TFBOYS - Heart.mp3 */,
+				C76CE8C81BA7C53B00317A1B /* TFBOYS - 信仰之名.mp3 */,
+				C76CE8C91BA7C53B00317A1B /* TFBOYS - 幸运符号.mp3 */,
+				C76CE8CA1BA7C53B00317A1B /* TFBOYS - 爱出发.mp3 */,
+				C76CE8CB1BA7C53B00317A1B /* TFBOYS - 青春修炼手册.mp3 */,
+				C76CE8CC1BA7C53B00317A1B /* TFBOYS - 魔法城堡.mp3 */,
+				C76CE8CD1BA7C53B00317A1B /* 张杰 - 剑心.mp3 */,
+				C76CE8CE1BA7C53B00317A1B /* 张靓颖 - 我们说好的.mp3 */,
+				C76CE8CF1BA7C53B00317A1B /* 朴树 - 平凡之路.mp3 */,
+				C76CE8D01BA7C53B00317A1B /* 李宇春 - 1987我不知会遇见你.mp3 */,
+				C76CE8D11BA7C53B00317A1B /* 李易峰 - 剑伤.mp3 */,
+				C76CE8D21BA7C53B00317A1B /* 王菲 - 匆匆那年.mp3 */,
+				C76CE8D31BA7C53B00317A1B /* 王蓉 - 小鸡小鸡.mp3 */,
+				C76CE8D41BA7C53B00317A1B /* 筷子兄弟 - 小苹果.mp3 */,
+				C76CE8D51BA7C53B00317A1B /* 筷子兄弟 - 父亲.mp3 */,
+				C76CE8D61BA7C53B00317A1B /* 迪克牛仔 - 爱有奇迹.mp3 */,
+				C76CE8D71BA7C53B00317A1B /* 邓紫棋 - 泡沫.mp3 */,
+				C76CE8D81BA7C53B00317A1B /* 陈学冬 - 不再见.mp3 */,
+				C76CE8D91BA7C53B00317A1B /* 齐晨 - 咱们结婚吧.mp3 */,
+			);
+			name = mp3;
+			path = "../../项目资源/酷狗音乐 /resource/mp3";
+			sourceTree = "<group>";
+		};
+		C76CE8ED1BA7C6BD00317A1B /* 欢迎页 */ = {
+			isa = PBXGroup;
+			children = (
+				C76CE8EE1BA7C73400317A1B /* KGWelcomePageViewController.h */,
+				C76CE8EF1BA7C73400317A1B /* KGWelcomePageViewController.m */,
+			);
+			name = "欢迎页";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +311,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C76CE8C51BA7C52400317A1B /* LocolMusicList.plist in Resources */,
+				C76CE8E81BA7C53B00317A1B /* 筷子兄弟 - 父亲.mp3 in Resources */,
 				C76CE8A61BA7B1B900317A1B /* Main.storyboard in Resources */,
+				C76CE8DA1BA7C53B00317A1B /* TFBOYS - Heart.mp3 in Resources */,
+				C76CE8E61BA7C53B00317A1B /* 王蓉 - 小鸡小鸡.mp3 in Resources */,
 				C76CE8AB1BA7B1B900317A1B /* LaunchScreen.xib in Resources */,
+				C76CE8E71BA7C53B00317A1B /* 筷子兄弟 - 小苹果.mp3 in Resources */,
+				C76CE8DE1BA7C53B00317A1B /* TFBOYS - 青春修炼手册.mp3 in Resources */,
+				C76CE8E11BA7C53B00317A1B /* 张靓颖 - 我们说好的.mp3 in Resources */,
+				C76CE8E31BA7C53B00317A1B /* 李宇春 - 1987我不知会遇见你.mp3 in Resources */,
+				C76CE8DF1BA7C53B00317A1B /* TFBOYS - 魔法城堡.mp3 in Resources */,
+				C76CE8E51BA7C53B00317A1B /* 王菲 - 匆匆那年.mp3 in Resources */,
+				C76CE8DC1BA7C53B00317A1B /* TFBOYS - 幸运符号.mp3 in Resources */,
+				C76CE8E21BA7C53B00317A1B /* 朴树 - 平凡之路.mp3 in Resources */,
+				C76CE8DB1BA7C53B00317A1B /* TFBOYS - 信仰之名.mp3 in Resources */,
+				C76CE8EC1BA7C53B00317A1B /* 齐晨 - 咱们结婚吧.mp3 in Resources */,
+				C76CE8E01BA7C53B00317A1B /* 张杰 - 剑心.mp3 in Resources */,
+				C76CE8E91BA7C53B00317A1B /* 迪克牛仔 - 爱有奇迹.mp3 in Resources */,
+				C76CE8EA1BA7C53B00317A1B /* 邓紫棋 - 泡沫.mp3 in Resources */,
+				C76CE8DD1BA7C53B00317A1B /* TFBOYS - 爱出发.mp3 in Resources */,
+				C76CE8E41BA7C53B00317A1B /* 李易峰 - 剑伤.mp3 in Resources */,
 				C76CE8A81BA7B1B900317A1B /* Images.xcassets in Resources */,
+				C76CE8EB1BA7C53B00317A1B /* 陈学冬 - 不再见.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +353,7 @@
 			files = (
 				C76CE89D1BA7B1B900317A1B /* AppDelegate.m in Sources */,
 				C76CE89A1BA7B1B900317A1B /* main.m in Sources */,
+				C76CE8F01BA7C73400317A1B /* KGWelcomePageViewController.m in Sources */,
 				C76CE8A01BA7B1B900317A1B /* KGKuGouPlayer.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -446,6 +549,7 @@
 				C76CE8BC1BA7B1B900317A1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C76CE8BD1BA7B1B900317A1B /* Build configuration list for PBXNativeTarget "KGKuGouPlayerTests" */ = {
 			isa = XCConfigurationList;
@@ -454,6 +558,7 @@
 				C76CE8BF1BA7B1B900317A1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
