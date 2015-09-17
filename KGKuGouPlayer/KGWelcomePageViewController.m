@@ -51,8 +51,8 @@
         [_scrollView addSubview:imageView];
     }
     _scrollView.contentSize = CGSizeMake(5*[UIScreen mainScreen].bounds.size.width, [UIScreen mainScreen].bounds.size.height);
-    _scrollView.pagingEnabled = YES;
-    _scrollView.bounces = NO;
+    _scrollView.pagingEnabled = YES;//支持滑动一个view的宽度
+    _scrollView.bounces = NO;//弹簧效果
 }
 
 -(void)scrollViewDidEndDecelerating:(UIScrollView *)scrollView{
@@ -77,7 +77,7 @@
 -(void)startMusicChip:(UIButton * )sender{
     //直接将主页设置为window的rootViewController这样就不回再回到欢迎页了。
     UIStoryboard * storyBoard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
-    KGHomePageViewController * homeVC = [storyBoard instantiateViewControllerWithIdentifier:@"HomePage"];
+    UINavigationController * homeVC = [storyBoard instantiateViewControllerWithIdentifier:@"HomePage"];
     [UIApplication sharedApplication].keyWindow.rootViewController = homeVC;
 }
 

@@ -23,7 +23,7 @@
     NSString * newVersion = infoDict[@"CFBundleVersion"];
     NSLog(@"%@",newVersion);
     //2、和之前保存的版本号对比，如果相同，则从主页启动，不同则从欢迎页启动。
-    NSString * oldVersion= [[NSUserDefaults standardUserDefaults] objectForKey:@"CFBundleVersion"];
+    NSString * oldVersion= [[NSUserDefaults standardUserDefaults] objectForKey:@"CFBundleVersion"];//从偏好里面读取内容
     if (oldVersion == nil) {
         //从欢迎页启动
         UIStoryboard * storyBoard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
@@ -33,7 +33,7 @@
         if ([oldVersion isEqualToString:newVersion]) {
             //从主页启动
             UIStoryboard * storyBoard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
-            KGHomePageViewController * homeVC = [storyBoard instantiateViewControllerWithIdentifier:@"HomePage"];
+            UINavigationController * homeVC = [storyBoard instantiateViewControllerWithIdentifier:@"HomePage"];
             self.window.rootViewController = homeVC;
         }else{
             //从欢迎页启动
@@ -44,7 +44,7 @@
     }
     
     //3、如果不同，把新的app版本号保存起来。
-    [[NSUserDefaults standardUserDefaults] setObject:newVersion forKey:@"CFBundleVersion"];
+    [[NSUserDefaults standardUserDefaults] setObject:newVersion forKey:@"CFBundleVersion"];//偏好保存
     
     return YES;
 }

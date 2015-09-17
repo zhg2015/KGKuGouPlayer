@@ -8,6 +8,18 @@
 
 #import <UIKit/UIKit.h>
 
-@interface KGHomePageViewController : UIViewController
+@interface KGHomePageViewController : UIViewController<UITableViewDataSource,UITableViewDelegate>
+@property (weak, nonatomic) IBOutlet UIButton *icon;
+- (IBAction)logon:(UIButton *)sender;
+- (IBAction)signIn:(UIButton *)sender;
+- (IBAction)switchButton:(id)sender;
+@property (weak, nonatomic) IBOutlet UITableView *tableView;
+@property (weak, nonatomic) IBOutlet UIButton *myMusicButton;
+@property (weak, nonatomic) IBOutlet UIButton *netMusicButton;
+@property (weak, nonatomic) IBOutlet UIButton *moreFunctionButton;
+- (IBAction)myMusic:(UIButton *)sender;
+- (IBAction)netMusic:(UIButton *)sender;
+- (IBAction)moreFunction:(UIButton *)sender;
+@property (weak, nonatomic) IBOutlet UIImageView *arrow;
 
 @end
